@@ -62,7 +62,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 .post-list {
     margin-top: 20px;
 }
