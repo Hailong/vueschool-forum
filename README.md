@@ -1,24 +1,5 @@
 # vueschool-forum
 
-## Project setup
-```
-npm install
-```
+This is a sample [Vue.js](https://v3.vuejs.org/) project created by following up with the online course [`The Vue.js 3 Masterclass`](https://vueschool.io/courses/the-vuejs-3-master-class)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Each code change commit is corresponding to one topic of the class. As the class is still going on, the project will be updated constantly.
