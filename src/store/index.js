@@ -4,7 +4,7 @@ import sourceData from '@/data'
 export default createStore({
   state: {
     ...sourceData,
-    authId: 'rpbB8C6ifrYmNDufMERWfQUoa202'
+    authId: 'VXjpr2WHa8Ux4Bnggym8QFLdv5C3'
   },
   getters: {
     authUser: state => state.users.find(user => user.id === state.authId)
